@@ -1,5 +1,7 @@
 # ALBERT4Rec
 
+https://etheses.lib.ntust.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=c9vs7L/record?r1=1&h1=0
+
 # Usage
    1. python main.py --template train_albert
    2. tensorboad --logdir=experiments
